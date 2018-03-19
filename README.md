@@ -24,10 +24,14 @@ La página de [_Issues_](https://github.com/IIC2143-2018-1/project/issues) se ut
 Dentro de _Issues_, [las entradas se pueden etiquetar con ciertas categorías](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar la búsqueda de problemas similares. Una entrada puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y clasificar tu pregunta en las categorías que correspondan:
 
 * [Código](https://github.com/IIC2143-2018-1/project/labels/C%C3%B3digo): sobre métodos, clases, sintaxis, estándares, etc
-* [Enunciado o Entrega](https://github.com/IIC2143-2018-1/project/labels/Enunciado%20o%20Entrega): sobre el enunciado o situación relacionada a alguna entrega de proyecto
+* [Docker](https://github.com/IIC2143-2018-1/project/labels/Docker): Preguntas relacionadas a Docker
 * [Duplicada](https://github.com/IIC2143-2018-1/project/labels/Duplicada): pregunta repetida, se hará referencia a la pregunta original
-* [Git](https://github.com/IIC2143-2018-1/project/labels/Git): Preguntas relacionadas con `git`
+* [Enunciado o Entrega](https://github.com/IIC2143-2018-1/project/labels/Enunciado%20o%20Entrega): sobre el enunciado o situación relacionada a alguna entrega de proyecto
+* [Git](https://github.com/IIC2143-2018-1/project/labels/Git): Preguntas relacionadas con git
+* [Heroku](https://github.com/IIC2143-2018-1/project/labels/Heroku): Preguntas relacionadas con Heroku
+* [IMPORTANTE](https://github.com/IIC2143-2018-1/project/labels/IMPORTANTE): hilos que todos los grupos deben leer
 * [Inválida](https://github.com/IIC2143-2018-1/project/labels/Inv%C3%A1lida): la pregunta no cumple los estándares o viola el procedimiento descrito abajo
+* [Rails](https://github.com/IIC2143-2018-1/project/labels/Rails): Preguntas relacionadas con rails
 * [Tengo un error](https://github.com/IIC2143-2018-1/project/labels/Tengo%20un%20error): para preguntar sobre errores o bugs en códigos antes de caer en la desesperación (pero luego de haber buscado apropiadamente en Internet...)
 
 ## Procedimiento
